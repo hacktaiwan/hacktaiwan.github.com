@@ -4,7 +4,7 @@
   <title><![CDATA[Hack+Taiwan]]></title>
   <link href="http://hacktaiwan.github.com/atom.xml" rel="self"/>
   <link href="http://hacktaiwan.github.com/"/>
-  <updated>2012-04-12T00:23:57+08:00</updated>
+  <updated>2012-04-12T12:10:19+08:00</updated>
   <id>http://hacktaiwan.github.com/</id>
   <author>
     <name><![CDATA[Gergely Imreh]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hack+Taiwan application]]></title>
+    <link href="http://hacktaiwan.github.com/blog/2012/04/12/hack-plus-taiwan-application/"/>
+    <updated>2012-04-12T11:44:00+08:00</updated>
+    <id>http://hacktaiwan.github.com/blog/2012/04/12/hack-plus-taiwan-application</id>
+    <content type="html"><![CDATA[<p>There&#8217;s plenty to do since only 9 days left till we should get on the way. For any hackathon, the most important ingredient is hackers (<em>duh!</em>), so currently I&#8217;m focusing on getting people interested in this event, if we have a good crowd, everything else will almost take care of itself (I imagine/hope).</p>
+
+<h2>Application form</h2>
+
+<p><strong>Very important</strong>: To apply, please fill out the application form at <a href="http://goo.gl/SrvBc">http://goo.gl/SrvBc</a>, and pass the address on to others who are interested as well. It&#8217;s not enough to just click &#8220;join&#8221; on the <a href="https://www.facebook.com/events/382147041825676/">Facebook event page</a>.</p>
+
+<p><img class="Logo" src="http://hacktaiwan.github.com/myimg/ApplicationForm.png" title="Application form" ></p>
+
+<p>So far I&#8217;m reaching out directly to different groups as well, for example the <a href="http://taipei.startupweekend.org">Startup Weekend Taipei</a> folks we had an awesome event with two weeks ago, and to the Open Source Developers&#8217; Conference <a href="http://osdc.tw/">OSDC.TW</a> people who seem very well suited for this. Any more ideas who to approach? Just leave me a message, any feedback is appreciated.</p>
+
+<h2>Other things</h2>
+
+<p>Things to take care of at the moment:</p>
+
+<ul>
+<li>Find technical mentors / judges</li>
+<li>Find technical sponsors</li>
+<li>Figure out catering (pizza+coffee, anyone?)</li>
+<li>Set up infrastructure, tools for the day</li>
+<li>Get a timetable for the day</li>
+<li>Let the event info out to the media to build some buzz</li>
+</ul>
+
+
+<p>At least the venue I don&#8217;t have to worry about, <a href="http://appworks.tw">AppWorks</a> kindly let us use their <a href="http://appworks.tw/incubator/">inclubator space</a>, should be nice, <a href="http://maps.google.com/maps/place?cid=1815435503043542231">downtown Taipei</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hatching]]></title>
