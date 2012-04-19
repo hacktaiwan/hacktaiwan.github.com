@@ -4,7 +4,7 @@
   <title><![CDATA[Category: organization | Hack+Taiwan]]></title>
   <link href="http://hacktaiwan.github.com/blog/categories/organization/atom.xml" rel="self"/>
   <link href="http://hacktaiwan.github.com/"/>
-  <updated>2012-04-16T23:19:25+08:00</updated>
+  <updated>2012-04-19T10:42:38+08:00</updated>
   <id>http://hacktaiwan.github.com/</id>
   <author>
     <name><![CDATA[Gergely Imreh]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Your turn]]></title>
+    <link href="http://hacktaiwan.github.com/blog/2012/04/19/your-turn/"/>
+    <updated>2012-04-19T10:30:00+08:00</updated>
+    <id>http://hacktaiwan.github.com/blog/2012/04/19/your-turn</id>
+    <content type="html"><![CDATA[<p>Everything is on track for our first <a href="https://www.facebook.com/events/382147041825676/">Hack+Taiwan event</a>, this post is to give some more info for it.</p>
+
+<h2>Information</h2>
+
+<p>The overal schedule is outlined in our <a href="http://localhost:4000/blog/2012/04/13/planning-the-day/">previous post</a>, basically we <strong>start at 9:00 in the morning, and go till 18:00 in the afternoon</strong>.</p>
+
+<p>There's an <strong>entrance fee</strong> of 300NT, that will cover all the <strong>food and drinks</strong> for the day.</p>
+
+<p><strong>Location</strong>: <a href="http://appworks.tw/">appWorks</a> (<a href="http://maps.google.com/maps/place?cid=1815435503043542231">Map</a>). 台北市信義區基隆路一段180號5F / Keelung Rd., Sec. 1, No. 180, 5F.</p>
+
+<p><strong>Best way to get there</strong>: Taipei City Hall Station, Exit #1, turn right, cross the street and turn right again, till you see the sign for the event. If you <strong>got lost</strong>, call me on 0932192631.</p>
+
+<p><img class="cover" src="/myimg/appworks_location.jpg" width="521" height="464" title="Map" ></p>
+
+<h2>Ideas</h2>
+
+<p>For the next two days, <strong>you should start to think about project ideas</strong> that you would like to create at Hack+Taiwan. What interests you? What things could be done better? What new things you could create in a day? (You will be suprirsed how much can be done in a short time:) Dream big, it does worth it!</p>
+
+<p>Also, check out the tools, languages, software that you will plan to use, <strong>refresh your knowledge</strong> and get to know them better. <em>And can leave a comment here about what's your favorite techology</em>.</p>
+
+<p>Otherwise, <strong>see you on Saturday</strong>.</p>
+
+<p>^Greg</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Planning the day]]></title>
@@ -28,7 +59,7 @@
 <li>9:00 - Doors open</li>
 <li>9:30 - Kick off, intro</li>
 <li>10:00 - Team formation, ready to rock</li>
-<li>17:00 - Presentations of the day's results, votig, winners</li>
+<li>17:00 - Presentations of the day's results, voting, winners</li>
 <li>18:00 - Closing down, some networking, mingling time</li>
 </ul>
 
