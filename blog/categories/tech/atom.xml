@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tech | Hack+Taiwan]]></title>
+  <link href="http://hacktaiwan.github.com/blog/categories/tech/atom.xml" rel="self"/>
+  <link href="http://hacktaiwan.github.com/"/>
+  <updated>2012-04-20T14:24:17+08:00</updated>
+  <id>http://hacktaiwan.github.com/</id>
+  <author>
+    <name><![CDATA[Gergely Imreh]]></name>
+    <email><![CDATA[imrehg@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ideas and tools]]></title>
+    <link href="http://hacktaiwan.github.com/blog/2012/04/20/ideas-and-tools/"/>
+    <updated>2012-04-20T13:41:00+08:00</updated>
+    <id>http://hacktaiwan.github.com/blog/2012/04/20/ideas-and-tools</id>
+    <content type="html"><![CDATA[<p>Tomorrow's the day for the first <a href="blog/2012/04/19/your-turn/">Hack+Taiwan</a>, and to make the most of the available time, the best is to come prepared - with ideas and with tools. This short article should get you started on both a little bit.</p>
+
+<p><img class="cover" src="/myimg/keyboard.jpg" width="500" height="500" title="Type away" ></p>
+
+<h2>Project ideas</h2>
+
+<p>This is of course the difficult one, coming up with a project idea, or many ideas. Think of things that are bothering you these days, and how would you fix them? Some of my ideas here (probably quite bad, but it's a start):</p>
+
+<ul>
+<li>Taking Taipei live bus data, and displaying in some more user friendly way (better site, map...)</li>
+<li>Find friends who are free (guessing from their social network activity) and connect with them to go out together</li>
+<li>Cafe database, with additional information such as "good for reading/studying", "can hold activities", "delicious food", "specialty coffees"</li>
+<li>Social games, that help to know each other better: music/photo/movie recommendations to each other, "guess which one I preferred"</li>
+<li>Visual guide for preparing traditional Taiwanese food, or food that commonly found in night markets</li>
+<li>Location-aware audio tours throught the city</li>
+<li>Inverse-online store: looking up something online, what department store sells it in the city? Products or brands in general</li>
+<li>Activity nearby: what activities are in the vicinity that you can get to? "A cinema 15 minutes walk away? What film is could I catch 30 mintues from now?"</li>
+</ul>
+
+
+<p>Don't be afraid if your ideas sound too big. Just have to start on them, and you'll see how it goes. The hackathon is not necessarily about finishing, but definitely about starting.</p>
+
+<h2>Tool ideas</h2>
+
+<p>You can use whatever tools you like, here are just a couple that I collected for quick reference at the moment:</p>
+
+<ul>
+<li>Make an mobile app: <a href="http://developer.android.com/sdk/index.html">Android SDK</a> / <a href="https://developer.apple.com/devcenter/ios/index.action">iPhone Dev Center</a> / <a href="http://www.appcelerator.com/">Titanium cross platform</a></li>
+<li>Make a Facebook app: <a href="https://developers.facebook.com/">Facebook Developers</a></li>
+<li>Make a web app: <a href="https://www.djangoproject.com/">Django</a> / <a href="http://nodejs.org">Node.js</a> / <a href="http://rubyonrails.org/">Ruby on Rails</a> / <a href="http://drupal.org">Drupal</a></li>
+<li>Host online: <a href="http://www.heroku.com">Heroku</a> / <a href="https://appengine.google.com/">Google AppEngine</a> / <a href="http://aws.amazon.com/">Amazon Web Services</a></li>
+<li>Source code hosting: <a href="http://www.github.com">Github</a> / <a href="http://gitorious.org/">Gitorious</a> / <a href="https://launchpad.net/">Launchpad</a> / <a href="https://bitbucket.org/">Bitbucket</a></li>
+<li>Big Data analysis: <a href="http://www.quora.com/Data/Where-can-I-get-large-datasets-open-to-the-public">"Where can I get big data sources"</a></li>
+<li>Hardware hacking: <a href="http://arduino.cc/">Arduino</a></li>
+<li>Learn new languages: <a href="http://learnpythonthehardway.org/book/">Python</a> / <a href="http://ruby.learncodethehardway.org/book/">Ruby</a> / <a href="http://learnyouahaskell.com/chapters">Haskell</a> / <a href="http://learnyousomeerlang.com/">Erlang</a> / <a href="http://www.phailed.me/2011/02/learn-lua-the-hard-way-1/">Lua</a> / or look around on <a href="http://en.wikipedia.org/wiki/List_of_programming_languages">this list</a>.</li>
+</ul>
+
+
+<h2>APIs</h2>
+
+<p>APIs are the interfaces given you by other sites, so you can use their data and services in different ways. There are loads of web services that you can connect to and combine them together to make something completely new. This is a very well used approach for hackathons, and people make many useful services by combining existing ones.</p>
+
+<ul>
+<li><a href="https://developers.facebook.com/docs/reference/api/">Facebook Graph API</a></li>
+<li><a href="https://dev.twitter.com/">Twitter API</a></li>
+<li><a href="http://www.plurk.com/API">Plurk API</a></li>
+<li><a href="https://developers.google.com/">Everything Google</a> (Maps, Chrome, Google+, Games, Android, ...)</li>
+<li><a href="http://developer.yahoo.com/everything.html">Everything Yahoo</a></li>
+<li><a href="http://instagr.am/developer/">Instagram API</a></li>
+<li><a href="https://developer.foursquare.com/index">Foursquare API</a></li>
+<li><a href="http://www.twilio.com/docs">Twillio API</a></li>
+<li><a href="http://www.flickr.com/services/api/">Flickr API</a></li>
+</ul>
+
+
+<p>Or look around in the <a href="http://www.plurk.com/API">API directory</a>.</p>
+
+<p><strong>Have more ideas? Add in the comments!</strong></p>
+
+<p>And just come and have fun...</p>
+]]></content>
+  </entry>
+  
+</feed>
