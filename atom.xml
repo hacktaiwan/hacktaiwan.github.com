@@ -4,7 +4,7 @@
   <title><![CDATA[Hack+Taiwan]]></title>
   <link href="http://hacktaiwan.github.com/atom.xml" rel="self"/>
   <link href="http://hacktaiwan.github.com/"/>
-  <updated>2012-04-20T14:24:17+08:00</updated>
+  <updated>2012-04-21T11:16:03+08:00</updated>
   <id>http://hacktaiwan.github.com/</id>
   <author>
     <name><![CDATA[Gergely Imreh]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[We are rolling]]></title>
+    <link href="http://hacktaiwan.github.com/blog/2012/04/21/we-are-rolling/"/>
+    <updated>2012-04-21T11:15:00+08:00</updated>
+    <id>http://hacktaiwan.github.com/blog/2012/04/21/we-are-rolling</id>
+    <content type="html"><![CDATA[<p>Since it is almost 11 o&#8217;clock, it&#8217;s good to check in what are we doing. So far we have about 10 people, participants and mentors together from all different background. It was a bumpy start until we got some ideas out, but finally it&#8217;s on the way.</p>
+
+<p><img class="cover" src="http://hacktaiwan.github.com/myimg/brainstorming.jpg" width="500" height="500" title="'Brainstorming session'" ></p>
+
+<p>We have 3 teams right now, and since I&#8217;m an &#8220;outsider&#8221;, I&#8217;m not totally sure of what they all are working on. But a little teaser:</p>
+
+<ul>
+<li>One team is working on better visualization and supervision system for the Taiwanese power grid</li>
+<li>Another team has their first adventure into Android development</li>
+<li>One more team of mentors are working on a web notification service called SpamMe</li>
+</ul>
+
+
+<p>I myself are doing a timelapse video of the things, writing this blog, and maybe get my &#8220;I thought we were friends&#8221; app working finally.</p>
+
+<p><strong>Countdown</strong>: 5 hours, 45 minutes</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ideas and tools]]></title>
