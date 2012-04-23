@@ -4,7 +4,7 @@
   <title><![CDATA[Hack+Taiwan]]></title>
   <link href="http://hacktaiwan.github.com/atom.xml" rel="self"/>
   <link href="http://hacktaiwan.github.com/"/>
-  <updated>2012-04-21T11:16:03+08:00</updated>
+  <updated>2012-04-23T22:13:23+08:00</updated>
   <id>http://hacktaiwan.github.com/</id>
   <author>
     <name><![CDATA[Gergely Imreh]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A hack of an event]]></title>
+    <link href="http://hacktaiwan.github.com/blog/2012/04/23/a-hack-of-an-event/"/>
+    <updated>2012-04-23T00:18:00+08:00</updated>
+    <id>http://hacktaiwan.github.com/blog/2012/04/23/a-hack-of-an-event</id>
+    <content type="html"><![CDATA[<p>Two days passed, and I&#8217;m starting to recover from our event. Note to self: next time less coffee and more coding&#8230;</p>
+
+<p>First and foremost thanks for <a href="http://appworks.tw">appWorks</a> and the <a href="http://fandora.tw">Fandora</a> team for hosting us. Otherwise this evern really couldn&#8217;t have happened!</p>
+
+<p>Lots of things worked out quite different from what I have expected, and still have to think about those a bit. Many things to improve but also many things were better than I have thought.</p>
+
+<p>Getting people in the beginning to come up with ideas was more tough than I&#8217;ve thought, some had none, some had too specific (too close to what they were working on otherwise) but in the end we had enough teams. Getting good teammates is very important, keeping up the motivation for the whole day, learning from each other, sharing information. It also helps if the members have some specific knowledge and don&#8217;t start from scratch, though that might work as well, depending on people&#8217;s attitude. Oh, and next time I have to remind people to bring their laptops, there were too many people who came without a computer, and a hackathon without computer is like&#8230;.. well, it&#8217;s tough to solve that problem. Funnily enough, the people this time did solve it and worked out very well.</p>
+
+<p>I have some favorite parts:</p>
+
+<ul>
+<li>Mentors forming a team and for the first time working together</li>
+<li>People trying something completely new technology to see what happens, because they have an idea they are passionate about</li>
+<li>Make an electronics project work even when things broke in the process, that is perseverence.</li>
+</ul>
+
+
+<p>And finally I&#8217;ve started on the little tool that I&#8217;ve been planning for a long time, hope to do more to it later.</p>
+
+<p><img class="cover" src="http://hacktaiwan.github.com/myimg/hacktaiwan.jpg" width="500" height="500" title="&#34;Demo time&#34;" alt="&#34;Demo time&#34;"></p>
+
+<p>See the rest of the pictures in this <a href="https://plus.google.com/photos/116948925972911973649/albums/5734267784489398881">photo album</a>.</p>
+
+<p>From the feedback I got it seems that people are interested in doing this again, so hope to see you next time. For future news check this page, or the <a href="https://www.facebook.com/WCIWTaiwan">World Creativity and Innovation Week Taiwan</a>. Have a creative week!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[We are rolling]]></title>
